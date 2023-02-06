@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "my_website"
+  site-url: "https://maya-guizzi.github.io/my_website"
+  description: "This is the website for a profile"
+  repo-branch: main
+  repo-url: "https://github.com/maya-guizzi/my_website"
